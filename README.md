@@ -4,7 +4,7 @@ SQL-Powered Insights: Finance & Supply Chain Analytics at Atliq Hardware
 
 AtliQ Hardware faced challenges in managing large datasets with Excel, affecting efficiency and decision-making. To overcome this, we leveraged SQL to streamline data processing, analyze sales trends, and optimize inventory management. This project transformed raw data into actionable insights, enabling smarter, data-driven strategies for growth.
 
-🔍 Key Analyses Conducted:
+🔍 Key Analysis Conducted:
 
 📌 Monthly Gross Sales Report – A stored procedure was designed to retrieve monthly gross sales for any customer, ensuring better financial tracking.
 
